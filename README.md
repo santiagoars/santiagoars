@@ -8,4 +8,4 @@
 
 | Portfolio | CV |
 | ----------- | ----------- |
-| ![Portfolio](https://img.icons8.com/?size=128&id=WyZp1aDIiQnZ&format=png) | ![Portfolio](https://img.icons8.com/?size=128&id=WEpZ7fWxXL7E&format=png) |
+| <a href="https://grupoargon.dev/" rel="Portfolio">![Portfolio](https://img.icons8.com/?size=128&id=WyZp1aDIiQnZ&format=png)</a> | ![Portfolio](https://img.icons8.com/?size=128&id=WEpZ7fWxXL7E&format=png) |

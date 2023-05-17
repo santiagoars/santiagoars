@@ -9,4 +9,4 @@
 | Syntax | Description |
 | ----------- | ----------- |
 | Portfolio | CV |
-| ![Portfolio](https://cdn-icons-png.flaticon.com/512/2720/2720550.png) | ![Portfolio](/Desktop/resume.png) |
+| ![Portfolio](https://icons8.com/icon/WyZp1aDIiQnZ/portfolio) | ![Portfolio](/Desktop/resume.png) |

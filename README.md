@@ -1,16 +1,12 @@
-### Hi there 👋
+## Hi there 👋, I'm Santiago
 
-<!--
-**santiagoars/santiagoars** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Software Developer at Oracle
+- Currently working on: Backend Web Development
+- Currently learning: Docker, IOS and Data Science
+- Currently reading: How to be a Stoic
+- Located in Guadalajara, Mexico 🇲🇽
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Syntax | Description |
+| ----------- | ----------- |
+| Portfolio | CV |
+| ![Portfolio](/Desktop/portfolio.png) | ![Portfolio](/Desktop/resume.png) |

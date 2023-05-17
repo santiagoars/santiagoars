@@ -8,5 +8,5 @@
 
 | Syntax | Description |
 | ----------- | ----------- |
-| Portfolio | CV |
+| <center>Portfolio</center> | CV |
 | ![Portfolio](https://img.icons8.com/?size=128&id=WyZp1aDIiQnZ&format=png) | ![Portfolio](https://img.icons8.com/?size=128&id=WEpZ7fWxXL7E&format=png) |

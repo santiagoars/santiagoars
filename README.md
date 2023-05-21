@@ -15,3 +15,4 @@
 | Front-End     | ![React](https://img.icons8.com/?size=64&id=NfbyHexzVEDk&format=png) ![Angular](https://img.icons8.com/?size=64&id=71257&format=png) ![Vue](https://img.icons8.com/?size=64&id=rY6agKizO9eb&format=png) ![HTML5](https://img.icons8.com/?size=64&id=EAUyKy3IwmqM&format=png) ![CSS3](https://img.icons8.com/?size=64&id=21278&format=png) ![Ionic](https://img.icons8.com/?size=64&id=nUFOCFvI5eIk&format=png)  |
 | Back-End      | ![NodeJS](https://img.icons8.com/?size=64&id=54087&format=png) ![Laravel](https://img.icons8.com/?size=64&id=lRjcvhvtR81o&format=png)    |
 | Databases        | ![OracleDB](https://img.icons8.com/?size=64&id=39913&format=png) ![PosgreSQL](https://img.icons8.com/?size=64&id=38561&format=png) ![MongoDB](https://img.icons8.com/?size=64&id=74402&format=png)   |
+| Other            |  ![GraphQL](https://img.icons8.com/?size=64&id=zdI5E8moxhs-&format=png)                |

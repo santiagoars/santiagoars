@@ -12,6 +12,6 @@
 
 |  Technologies |   |
 |---------------|---|
-| Front-End     | ![React](https://img.icons8.com/?size=64&id=NfbyHexzVEDk&format=png) ![Angular](https://img.icons8.com/?size=64&id=71257&format=png)  |
+| Front-End     | ![React](https://img.icons8.com/?size=64&id=NfbyHexzVEDk&format=png) ![Angular](https://img.icons8.com/?size=64&id=71257&format=png) ![Vue](https://img.icons8.com/?size=64&id=rY6agKizO9eb&format=png)  |
 | Back-End      |   |
 | Others        |   |
